@@ -1,7 +1,7 @@
 # 👋 Hola, soy Heart
 
 <p align="center">
-  <img src="https://imgur.com/mIopb4R" width="150"/>
+  <img src="https://cdn.discordapp.com/attachments/1477215490718826536/1492984151924670504/Frame_94.png?ex=69dd5158&is=69dbffd8&hm=2aa269662d0a2b9fa6a468998c654324ecc4fecb714befcb06f226ae7347c337&" width="150"/>
 </p>
 
 ## 🧠 Sobre mí
