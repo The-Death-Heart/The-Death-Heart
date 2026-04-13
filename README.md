@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Heart
 
-<!--
-**The-Death-Heart/The-Death-Heart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://imgur.com/mIopb4R" width="150"/>
+</p>
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
+Soy desarrollador especializado en FiveM, con experiencia en Lua dentro de frameworks como QB-Core y ESX.
+También cuento con conocimientos en HTML, CSS, MySQL y JavaScript.
+Además, tengo experiencia en la gestión de infraestructuras y paneles como Proxmox, VirtFusion, Paymenter y WHMCS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Stack & Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,python,mysql,html,css,js,linux,docker,nginx,git,github,vscode" />
+</p>
